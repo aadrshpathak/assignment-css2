@@ -1,0 +1,80 @@
+header{
+    text-align: center;
+    background-color: aquamarine;
+    color: white;
+    padding: 10px 5px;
+    border: 1px solid black;
+    margin: 12px;
+}
+main{
+    text-align: center;
+    color: black;
+
+}
+.pera7{
+    text-align: center;
+    border: 1px solid white;
+    margin: 10px;
+    padding: 10px 8px;
+    background-color: aquamarine;
+    border-right: 5px solid red;
+    border-left: 5px solid blue;
+    border-bottom: 5px solid green;
+    border-top: 10px solid yellow;
+    border-bottom-left-radius: 30px;
+}
+footer{
+    text-align: center;
+    border: 1px solid black;
+    margin: 5px;
+    padding: 10px 5px;
+    color: white;
+    background-attachment: fixed;
+    background-color: aquamarine;
+    border-bottom-left-radius: 30px;
+    border: 10px solid aqua;
+    text-decoration: none;
+
+}
+
+    
+
+}
+a:hover{
+    border-bottom:1px solid red;
+ transition: .3s ease;
+ color: blue;
+}
+
+.pera1{
+    border-style:dotted;
+    margin: 5px;
+    padding: 10px;
+    border:  solid red;
+
+}
+.pera2{
+    border-style: dotted;
+    margin: 12px;
+    
+}
+.pera3{
+    border-style: double;
+    margin: 12px;
+    padding: 10px;
+}
+.pera4{
+    border-style: ridge;
+    margin: 15px;
+}
+.pera5{
+    border-style: dashed;
+    margin: 15px;
+}
+.pera6{
+    margin: 7px;
+    border-style: ridge;
+}
+.contenar{
+    background-color: yellowgreen;
+}
